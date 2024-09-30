@@ -1,4 +1,5 @@
 Exploração de Dados Imobiliários: Prevendo Preços de Casas
+
 O objetivo deste case é analisar o mercado imobiliário nos EUA, explorando os principais fatores que influenciam o preço de venda das casas. A análise visa prever os valores das propriedades utilizando um modelo de Regressão Linear, baseado em variáveis socioeconômicas e características das casas. Para isso, foi necessário:
 
 Identificar os dados mais relevantes para a previsão de preços, como renda média, idade da casa e número de quartos.
