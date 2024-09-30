@@ -5,7 +5,9 @@ O objetivo deste case é analisar o mercado imobiliário nos EUA, explorando os 
 Identificar os dados mais relevantes para a previsão de preços, como renda média, idade da casa e número de quartos.
 Verificar a integridade e limpeza dos dados para garantir análises precisas.
 Dividir o conjunto de dados entre treino e teste para aplicar o modelo de regressão e validar sua eficácia.
-Etapas do Processo:
+
+Etapas do Processo
+
 Carregamento e Visualização de Dados:
 O processo inicia com o carregamento do dataset "USA_Housing.csv" e uma análise descritiva das colunas, como preço, renda média da área e número de quartos. As primeiras e últimas linhas do dataset são visualizadas para garantir a integridade dos dados, e colunas desnecessárias, como o endereço, são removidas.
 
